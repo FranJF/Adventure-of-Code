@@ -1,0 +1,3 @@
+type Hola = {
+    start: () => number;
+}
